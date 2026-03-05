@@ -6,18 +6,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;Creating+AI+Powered+Tools;Turning+Ideas+Into+Real+Products" />
 </div>
 <br>
-
 ###
 
 <img align="right" height="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/23c57834023428.56c1a26a854cd.gif"  />
 <br>
 
 ###
-
-
-
-
-
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
@@ -89,9 +83,9 @@
 ###
 
 <div align="center">
-  <a href="shikharx,dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
-  </a>
+  <a href="mailto:shikharx.dev@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Shikhar,%20I%20saw%20your%20GitHub%20profile.">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"/>
+</a>
   <a href="https://www.instagram.com/shikhar3x?igsh=MXZ4ZDB0OXlsMnczMg==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo"  />
   </a>
